@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Destiny Mini Project</string>
+    <string name="about">about</string>
+    <string name="settings">setting</string>
+    <string name="Theme">Theme</string>
+    <string name="Volume">Voice Control</string>
+    <string name="Switch">Switch</string>
+    <string name="Pitch">Pitch</string>
+    <string name="Speed">Speed</string>
+    <string name="Theme_name">Theme</string>
+    <string name="default_theme">Default Theme</string>
+    <string name="dark">Dark Theme</string>
+    <string name="NoActionBar">NoActionBar Theme</string>
+    <string name="speak">Click here to Listen the STORY</string>
+    <string name="listenStory">Choose any one of the below option to continue further...</string>
+    <string name="read">READ</string>
+    <string name="listen">LISTEN</string>
+    <string name="Desinty">Destiny</string>
+    <string name="One">Story One</string>
+    <string name="Two">Story Two</string>
+    <string name="Three">Story Three</string>
+    <string name="Four">Story Four</string>
+    <string name="Five">Story Five</string>
+    <string name="Six">Story Six</string>
+
+    <string name="T1_Story">Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: \"Need a ride, boy?\". </string>
+    <string name="T1_Ans1">I\'ll hop in. Thanks for the help! </string>
+    <string name="T1_Ans2">Better ask him if he\'s a murderer first. </string>
+    <string name="T2_Story">He nods slowly, unphased by the question.</string>
+    <string name="T2_Ans1">At least he\'s honest. I\'ll climb in.</string>
+    <string name="T2_Ans2">Wait, I know how to change a tire.</string>
+    <string name="T3_Story">As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.</string>
+    <string name="T3_Ans1">I love Elton John! Hand him the cassette tape.</string>
+    <string name="T3_Ans2">It\'s him or me! You take the knife and stab him.</string>
+    <string name="T4_End">What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?</string>
+    <string name="T5_End">As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.</string>
+    <string name="T6_End">You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: \"Try the pier.\"</string>
+
+    <string name="T11_Story">Once there was a boy who became bored when he watched over the village sheep grazing on the hillside. To entertain himself</string>
+    <string name="T11_Ans1">He sang out,"wolf! wolf!,The wolf is chasing the sheep</string>
+    <string name="T11_Ans2">He sang a song</string>
+    <string name="T12_Story">When the villagers heard the cry,they came running up the hill to drive the wolf away.But when they arrived they saw no wolf.Villagers warned the boy and went back down.Then the boy again played the same prank the villagers came running again and saw no wolf</string>
+    <string name="T12_Ans1">He told sorry to the villagers for his lies</string>
+    <string name="T12_Ans2">The boy was amused seeing their angry faces</string>
+    <string name="T13_Story">Later the boy saw a real wolf. He cried out as loud as he could ,"wolf! wolf!.</string>
+    <string name="T13_Ans1">The villagers came running for help</string>
+    <string name="T13_Ans2">The villagers did not came for help</string>
+    <string name="T_11_12_End">Later the boy saw a real wolf,he Alarmed and cried out as loud as he could,"wolf! wolf!". The villagers came running up and saved his sheep from the wolf.</string>
+    <string name="T13_Ans1_End">But this time they saw the wolf and they rescude his sheeps. The boy thanked the villagers for tursting him again</string>
+    <string name="T13_Ans2_End">As they thought that he was fooling them again ,so they did not came to help, and the wolf has eaten all the sheeps.</string>
+        <string name="end">End of story</string>
+
+    <string name="T31_Story">There was once a MilkMaid  name patty she was on her way to the market to sell milk .As she carried the large jug of milk on top of her head...</string>
+    <string name="T31_Ans1">she began to dream of all the things she could to do after selling the milk</string>
+    <string name="T31_Ans2">She went to the shop and sold the milk</string>
+
+    <string name="T32_Story">With that money, I will buy a hundred chicks to rear in my backyard.When they are fully grown.I can sell them at a good price at the market. As she walked on..</string>
+    <string name="T32_Ans1">She continued dreaming</string>
+    <string name="T32_Ans2">she met her friend</string>
+
+    <string name="T31_Ans1_End">While returning ho,e she purchased chicks to rear and when they fully grown she thought of selling that</string>
+    <string name="T33_Story">Then i will buy two young goats and by selling that for even better price I will be able to buy another cow and I will have more milk to sell with that happy thoughts</string>
+    <string name="T33_Ans1">she began to skip and jump</string>
+
+
+    <string name="T33_Ans1_End">suddenly she tripped and fell.The jug broke and all the milk split onto the ground..She sat down and cried.</string>
+
+    <string name="T34_Story">Her name is lalitha.Patty was very happy to see her friend.</string>
+    <string name="T34_Ans2">she greeted her in a polite manner</string>
+    <string name="T34_Ans2_End">Both went to shop to sell the milk.They sold the money to a good price</string>
+
+
+    <string name="title_activity_settings">SettingsActivity</string>
+
+
+<!--    <string name="sync_header">Sync</string>-->
+<!--    <string name="title_activity_settings2">SettingsActivity2</string>-->
+
+<!--    &lt;!&ndash; Preference Titles &ndash;&gt;-->
+<!--    <string name="messages_header">Messages</string>-->
+
+<!--    &lt;!&ndash; Messages Preferences &ndash;&gt;-->
+<!--    <string name="signature_title">Your signature</string>-->
+<!--    <string name="reply_title">Default reply action</string>-->
+
+<!--    &lt;!&ndash; Sync Preferences &ndash;&gt;-->
+<!--    <string name="sync_title">Sync email periodically</string>-->
+<!--    <string name="attachment_title">Download incoming attachments</string>-->
+<!--    <string name="attachment_summary_on">Automatically download attachments for incoming emails-->
+<!--    </string>-->
+<!--    <string name="attachment_summary_off">Only download attachments when manually requested</string>-->
+
+</resources>

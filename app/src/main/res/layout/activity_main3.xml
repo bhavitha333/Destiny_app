@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".MainActivity3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/buttonSix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="220dp"
+            android:background="@drawable/backgroundstyle"
+            android:padding="6dp"
+            android:paddingStart="50dp"
+            android:paddingLeft="50dp"
+            android:paddingEnd="50dp"
+            android:text="@string/One"
+            android:textSize="20sp"
+            app:backgroundTint="@color/ColorPrimary" />
+
+        <Button
+            android:id="@+id/buttonSeven"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/backgroundstyle"
+            android:padding="6dp"
+            android:paddingStart="50dp"
+            android:paddingLeft="50dp"
+            android:paddingEnd="50dp"
+            android:text="@string/Two"
+            android:textSize="20sp"
+            app:backgroundTint="@color/ColorPrimary" />
+
+        <Button
+            android:id="@+id/buttonEight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/backgroundstyle"
+            android:padding="6dp"
+            android:paddingStart="50dp"
+            android:paddingLeft="50dp"
+            android:paddingEnd="50dp"
+            android:text="@string/Three"
+            android:textSize="20sp"
+            app:backgroundTint="@color/ColorPrimary" />
+
+<!--        <Button-->
+<!--            android:id="@+id/buttonNine"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:background="@drawable/backgroundstyle"-->
+<!--            android:padding="6dp"-->
+<!--            android:paddingStart="50dp"-->
+<!--            android:paddingLeft="50dp"-->
+<!--            android:paddingEnd="50dp"-->
+<!--            android:scrollbars="vertical"-->
+<!--            android:text="@string/Four"-->
+<!--            android:textSize="20sp"-->
+<!--            app:backgroundTint="@color/ColorPrimary" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/buttonTen"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:background="@drawable/backgroundstyle"-->
+<!--            android:padding="6dp"-->
+<!--            android:paddingStart="50dp"-->
+<!--            android:paddingLeft="50dp"-->
+<!--            android:paddingEnd="50dp"-->
+<!--            android:text="@string/Five"-->
+<!--            android:textSize="20sp"-->
+<!--            app:backgroundTint="@color/ColorPrimary" />-->
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+

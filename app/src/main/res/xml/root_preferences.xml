@@ -1,0 +1,71 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto">-->
+
+<!--    &lt;!&ndash;    <ListPreference&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:defaultValue="@string/def_theme"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:entries="@array/themes"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:entryValues="@array/themes"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:key="theme"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:title="@string/theme_dialog_title"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:summary="@string/theme_summary"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:dialogTitle="@string/theme_dialog_title"/>&ndash;&gt;-->
+
+
+<!--    &lt;!&ndash;    <SwitchPreference&ndash;&gt;-->
+
+<!--    &lt;!&ndash;        android:defaultValue="false"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:summaryOff="Dark mode theme is Off"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:summaryOn="Dark mode theme is On"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:switchTextOff="OFF"&ndash;&gt;-->
+<!--    &lt;!&ndash;        android:switchTextOn="ON"&ndash;&gt;-->
+<!--    &lt;!&ndash;        app:key="@string/Switch"&ndash;&gt;-->
+<!--    &lt;!&ndash;        app:title="@string/Theme" />&ndash;&gt;-->
+
+<!--    <PreferenceCategory android:title="@string/Volume">-->
+
+
+<!--        <SeekBarPreference-->
+<!--            android:id="@+id/pitchSeekbar"-->
+<!--            android:key="seek_bar_key"-->
+<!--            android:max="100"-->
+<!--            android:min="@integer/seek_bar_min"-->
+<!--            android:summary="increase or decrease the pitch"-->
+<!--            android:progress="50"-->
+<!--            android:title="@string/Pitch"></SeekBarPreference>-->
+
+<!--        <SeekBarPreference-->
+<!--            android:id="@+id/speedSeekbar"-->
+<!--            android:key="seek_bar_key"-->
+<!--            android:max="100"-->
+<!--            android:min="@integer/seek_bar_min"-->
+<!--            android:progress="50"-->
+<!--            android:summary="increase or decrease the pitch"-->
+<!--            android:title="@string/Speed"></SeekBarPreference>-->
+<!--    </PreferenceCategory>-->
+
+</PreferenceScreen>
+
+<!--    <SwitchPreferenceCompat-->
+<!--    app:dependency="sync"-->
+<!--    app:key="attachment"-->
+<!--    app:summaryOff="@string/attachment_summary_off"-->
+<!--    app:summaryOn="@string/attachment_summary_on"-->
+<!--    app:title="@string/attachment_title" />-->
+
+
+<!--    <PreferenceCategory app:title="@string/messages_header">-->
+
+<!--    <EditTextPreference-->
+<!--        app:key="signature"-->
+<!--        app:title="@string/signature_title"-->
+<!--        app:useSimpleSummaryProvider="true" />-->
+
+<!--    <ListPreference-->
+<!--        app:defaultValue="reply"-->
+<!--        app:entries="@array/reply_entries"-->
+<!--        app:entryValues="@array/reply_values"-->
+<!--        app:key="reply"-->
+<!--        app:title="@string/reply_title"-->
+<!--        app:useSimpleSummaryProvider="true" />-->
+
+<!--    </PreferenceCategory>-->

@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="ThemeDark" parent="Theme.AppCompat.DayNight">
+
+        <item name="colorPrimary">@color/buttonsColor</item>
+        <item name="colorPrimaryVariant">@color/ButtonsBlueColor</item>
+        <item name="colorOnPrimary">@color/ButtonsDarkBlueColor</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/ColorPrimary</item>
+        <item name="colorSecondaryVariant">@color/backgroundText</item>
+        <item name="colorOnSecondary">@color/textColor</item>
+        <item name="color">@color/background</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+<!--        <item name="bgColor">#000000</item>-->
+<!--        <item name="metaTextColor">#FF6200EE</item>-->
+<!--        <item name="textColor">#ffffff</item>-->
+<!--        <item name="anotherTextColor">#ff00ddff</item>-->
+<!--        <item name="buttonColor">#FF018786</item>-->
+<!--        <item name="darkBlueColor">#FF3700B3</item>-->
+<!--        <item name="purpleColor">#FFBB86FC</item>       &lt;!&ndash; Status bar color. &ndash;&gt;-->
+
+        <!-- Status bar color. -->
+<!--        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+    </style>
+</resources>

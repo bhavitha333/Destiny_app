@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".StoryOneReadActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/storyTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="350dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="@string/T31_Story"
+            android:textColor="@color/backgroundText"
+            android:textSize="24sp" />
+
+
+        <Button
+            android:id="@+id/TopButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/backgroundstyle"
+            android:gravity="center"
+            android:scrollbars="vertical"
+            android:text="@string/T31_Ans1"
+            android:textColor="#ecf0f1"
+            android:textSize="18sp"
+            app:backgroundTint="@color/ButtonsBlueColor" />
+
+        <Button
+            android:id="@+id/bottomButton"
+            style="@style/ThemeLight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/backgroundstyle"
+            android:text="@string/T31_Ans2"
+            android:textColor="#ecf0f1"
+            android:textSize="18sp"
+            app:backgroundTint="@color/buttonsColor" />
+    </LinearLayout>
+</ScrollView>
